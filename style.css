@@ -14,10 +14,19 @@ div#content {
 }
 
 section.row {
-    background-color: yellow;
+    background-color:pink;
 }
 
 section.col {
     width: 33%;
     float: left;
+    background-color: yellow;
+}
+section.cat{
+    background-image: url(http://i0.kym-cdn.com/entries/icons/mobile/000/011/365/GRUMPYCAT.jpg);
+    height: 60%;
+    width: 99%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: relative;
 }
